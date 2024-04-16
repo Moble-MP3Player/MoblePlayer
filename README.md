@@ -1,9 +1,10 @@
 <div align="center">
-<h1> moblePlayer </h1>
-![Logo2](https://github.com/Moble-MP3Player/MoblePlayer/assets/54611807/ea14f057-9473-4ff0-bf5a-100432e7c46b)
+<h1>Moble Player</h1>
+<img src = "https://github.com/Moble-MP3Player/MoblePlayer/assets/54611807/ea14f057-9473-4ff0-bf5a-100432e7c46b">
 
-    
-JavaFx를 활용한 Mp3 Player
+<br>
+ 사용자 인터페이스를 통해 미디어 파일을 재생, 일시 정지, 정지할 수 있는 기능을 제공합니다. 
+
 <br>
 <br>
 </div>
@@ -27,7 +28,8 @@ JavaFx를 활용한 Mp3 Player
 
 
 ## Features
-로컬 폴더의 MP3 재생  
+JavaFx를 통해 인터페이스와 Media Player를 활용한 MP3 Player 기능을 제공합니다.
+
 <br>
 <br>
 
