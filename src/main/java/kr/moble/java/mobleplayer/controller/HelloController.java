@@ -1,4 +1,4 @@
-package kr.moble.java.mobleplayer;
+package kr.moble.java.mobleplayer.controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
