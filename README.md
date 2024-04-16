@@ -1,5 +1,8 @@
 <div align="center">
 <h1> moblePlayer </h1>
+![Logo2](https://github.com/Moble-MP3Player/MoblePlayer/assets/54611807/ea14f057-9473-4ff0-bf5a-100432e7c46b)
+
+    
 JavaFx를 활용한 Mp3 Player
 <br>
 <br>
