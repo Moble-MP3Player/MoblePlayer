@@ -18,8 +18,7 @@ public class MoblePlayerApplication extends Application {
 
 //        FileService fileService = new FileService(stage);
 //        String filePath = fileService.openFile();
-//        System.out.println(filePath);  // 콘솔에 파일 경로 출력
-
+//        System.out.println(filePath);  // 콘솔에 파일 경로 출
     }
 
     public static void main(String[] args) {
