@@ -16,7 +16,7 @@ public class MoblePlayerApplication extends Application {
         stage.setScene(scene);
         stage.show();
 
-//        FileService fileService = new FileService(stage)
+//        FileService fileService = new FileService(stage);
 //        String filePath = fileService.openFile();
 //        System.out.println(filePath);  // 콘솔에 파일 경로 출
     }
